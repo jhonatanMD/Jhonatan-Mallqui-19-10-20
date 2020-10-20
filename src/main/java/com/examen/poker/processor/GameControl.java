@@ -17,6 +17,11 @@ public class GameControl {
 		
 		public static void main(String ... arg) {
 	
+		/*
+		 * El siguiente codigo recorre el archivo pokerdata.txt
+		 * y valida cada input
+		 * 
+		 * */	
 			
 	      try {
 	         archivo = new File (Constant.fileRead);
@@ -52,6 +57,10 @@ public class GameControl {
 	         }
 	      }
 		
+	      /*
+	       * El siguiente codigo crea el archivo  OutputFilePoker.txt
+	       * 
+	       * */
 			
 			try {
 	            PrintWriter writer = new PrintWriter(Constant.fileWrite ,"UTF-8");
