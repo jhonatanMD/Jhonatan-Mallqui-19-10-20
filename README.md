@@ -70,6 +70,17 @@ o si estas en cualquier otro IDE actualizar las dependecias del maven para que p
          14.1%                |       22.6 %
 
 
+------------------------------
+|  Total de Jugadas son 1000  |
+|                             |
+|    Player 1 :  376          |
+|    Player 2 :  624          |
+|               _____         |
+|    Total    : 1000          |
+|-----------------------------|
+
+
+
 ## Instrucciones de Juego
 
 ### Escalera Real de Color
