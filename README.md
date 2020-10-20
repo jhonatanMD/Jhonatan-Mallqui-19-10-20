@@ -18,7 +18,7 @@
 _Copiar lo siguiente y en una terminar git ejecutar el siguiente comando_
 
 ```
-git clone https://github.com/jhonatanMD/Jhonatan-Mallqui-19-10-20.git
+git clone https://github.com/jhonatanMD/Jhonatan-Mallqui-19-10-20.git 
 ```
 
 _Dirigirse al IDE y importar el archivo_
